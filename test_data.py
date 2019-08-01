@@ -1,0 +1,12 @@
+test_data = [
+    "BILL & MELINDA GATES FOUNDATION TRUST | 0001166559",
+    "BLACKROCK ADVISORS LLC | 0001086364",
+    "PEAK6 Investments LLC | 0001756111",
+    "Kemnay Advisory Services Inc. | 0001555283",
+    "HHR Asset Management, LLC | 0001397545",
+    "Benefit Street Partners LLC | 0001543160",
+    "Okumus Fund Management Ltd. | 0001496147",
+    "PROSHARE ADVISORS LLC | 0001357955",
+    "TOSCAFUND ASSET MANAGEMENT LLP | 0001439289",
+    "CALEDONIA INVESTMENTS PLC | 0001037766"
+]
